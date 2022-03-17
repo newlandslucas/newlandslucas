@@ -1,9 +1,7 @@
-### Hello! I'm Lucas Newlands
+<h1>Hello! I'm Lucas Newlands</h1>
 
-#### - 🔭 I’m currently working on Front-end development with: React, React Native.
+<h2>I’m currently working on IOS development with: SwiftUI.</h2>
 
-
-##
 
 <div>
   <a href="https://github.com/newlandslucas">
